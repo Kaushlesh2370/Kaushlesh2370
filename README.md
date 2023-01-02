@@ -1,5 +1,5 @@
 # Kaushlesh2370
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/Kaushlesh2370/Kaushlesh2370.git)
 <h1 align="center">Hi 👋, I'm Kaushlesh Yadav</h1>
 <h3 align="center">I passionate frontend developer from India and want to work with all over world.</h3>
 <img align="right" alt="Researching" width="430" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw04HOd-cjptpuJpqA5wckgI&ust=1672776379137000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCfrOHXqfwCFQAAAAAdAAAAABAE">
